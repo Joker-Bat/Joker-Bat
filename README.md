@@ -3,6 +3,7 @@
 ## I am Shanmugam M (silver_dev) 
 [![HitCount](http://hits.dwyl.com/Joker-Bat/Joker-Bat.svg)](http://hits.dwyl.com/Joker-Bat/Joker-Bat)
 
+- 🎓 I'm a currently a Frontend developer Soon become a FullStack 🤗. 
 - 🔭 I’m currently working on small projects with CSS and JS.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on OpenSource Projects.
