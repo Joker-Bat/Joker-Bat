@@ -1,12 +1,12 @@
 # தமிழ்
 
-### <img src="./images/hi.gif" width="32px" > Hi there 
+### <img src="./images/hi.gif" width="32px" > Hi there
 
 ## I am Shanmugam M (silver_dev)
 
 [![HitCount](http://hits.dwyl.com/Joker-Bat/Joker-Bat.svg)](http://hits.dwyl.com/Joker-Bat/Joker-Bat)
 
-<img align="right"  src="./images/webdesign.gif" alt="webDesing gif">
+<img width="200px" height="250px" style="position: relative; top: -20px; border-radius: 10%; height: 250px;" align="right"  src="./images/webdesign.gif" alt="webDesing gif">
 
 - 🎓 Currently a Frontend developer Soon to be a FullStack 🤗.
 - 🔭 Working on small projects with CSS and JS.
@@ -33,7 +33,9 @@
 <br />
 
 ### Tech and Tools
+
 > Mostly used by me
+
 <table>
   <tr>
     <td align="center" width="80">
