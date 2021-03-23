@@ -6,7 +6,7 @@
 
 [![HitCount](http://hits.dwyl.com/Joker-Bat/Joker-Bat.svg)](http://hits.dwyl.com/Joker-Bat/Joker-Bat)
 
-<img style="height: 200px;" align="right"  src="./images/webdesign.gif" alt="webDesing gif">
+<img align="right"  src="./images/webdesign.gif" alt="webDesing gif">
 
 - 🎓 Currently a Frontend developer Soon to be a FullStack 🤗.
 - 🔭 Working on small projects with CSS and JS.
