@@ -4,7 +4,7 @@
 
 ## I am Shanmugam M (silver_dev)
 
-[![HitCount](http://hits.dwyl.com/Joker-Bat/Joker-Bat.svg)](http://hits.dwyl.com/Joker-Bat/Joker-Bat)
+<!-- [![HitCount](http://hits.dwyl.com/Joker-Bat/Joker-Bat.svg)](http://hits.dwyl.com/Joker-Bat/Joker-Bat) -->
 
 <img width="230px" height="280px" style="position: relative; top: -20px; border-radius: 3%; height: 250px; right: 30px;" align="right"  src="./images/webdesign.gif" alt="webDesing gif">
 
@@ -21,7 +21,7 @@
 
 [<img style="margin-right: 10px;" align="left" margin-right="5px" src="./images/instagram.svg" width="32px" height="32px" alt="instagram" >][instagram]
 
-[<img style="margin-right: 10px;" align="left" margin-right="5px" src="./images/telegram.svg" width="32px" height="32px" alt="telegram" >][telegram]
+<!--[<img style="margin-right: 10px;" align="left" margin-right="5px" src="./images/telegram.svg" width="32px" height="32px" alt="telegram" >][telegram] -->
 
 [<img style="margin-right: 10px;" align="left" margin-right="5px" src="./images/twitter.svg" width="32px" height="32px" alt="twitter" >][twitter]
 
