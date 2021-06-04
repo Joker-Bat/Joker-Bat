@@ -1,12 +1,11 @@
 # தமிழ்
 
-### <img src="./images/hi.gif" width="32px" > Hi there
+<!-- ### <img src="./images/hi.gif" width="32px" > Hi there -->
 
-## I am Shanmugam M (silver_dev)
+<!-- ## I am Shanmugam M (silver_dev) -->
 
-[![HitCount](http://hits.dwyl.com/Joker-Bat/Joker-Bat.svg)](http://hits.dwyl.com/Joker-Bat/Joker-Bat)
-
-<img width="230px" height="280px" style="position: relative; top: -20px; border-radius: 3%; height: 250px; right: 30px;" align="right"  src="./images/webdesign.gif" alt="webDesing gif">
+<!-- [![HitCount](http://hits.dwyl.com/Joker-Bat/Joker-Bat.svg)](http://hits.dwyl.com/Joker-Bat/Joker-Bat) -->
+<img src="./images/myHeader.svg" alt="headerImg" />
 
 - 🎓 Currently a Frontend developer Soon to be a FullStack 🤗.
 - 🔭 Working on small projects with CSS and JS.
