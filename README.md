@@ -14,12 +14,11 @@
 
 <!-- > > > > > > > 82497242cdb48295bd71070eb1adf3482690d962 -->
 
-- 🎓 Currently a Frontend developer Soon to be a FullStack 🤗.
-- 🔭 Working on small projects with CSS and JS.
-- 🌱 Now learning React.
+- 🎓 Working as FullStack 🤗.
+- 🔭 Working on small projects with Python and Flutter.
+- 🌱 Now learning Local LLM's.
 - 👯 Looking to collaborate on OpenSource Projects.
-- 🤔 Looking for help with Career Guidance.
-- 💬 Ask me about Frontend.
+- 💬 Ask me about Webdev.
 - 😄 Pronouns: He / Him.
 - ⚡ Fun fact: I love OpenSource because i am Linux user 😎.
 
